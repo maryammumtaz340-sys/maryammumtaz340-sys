@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**maryammumtaz340-sys/maryammumtaz340-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Maryam Mumtaz
 
-Here are some ideas to get you started:
+🎓 BS Artificial Intelligence Student at COMSATS University Islamabad, Lahore Campus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Software Developer
+
+🌱 Currently learning Python, C++, Data Structures, and AI concepts
+
+🚀 Building projects and improving my problem-solving skills one step at a time
+
+---
+
+## 🛠 Skills
+
+- C++
+- Python
+- File Handling
+- Data Structures
+- Problem Solving
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 📚 Library Management System
+A console-based Library Management System developed in C++ using file handling and a menu-driven interface.
+
+### 📊 Student Marks Analyzer
+A C++ application that analyzes student marks, calculates totals and averages, generates subject-wise statistics, and identifies the highest and lowest marks in the class.
+
+---
+
+## 📫 How to Reach Me
+
+- LinkedIn: www.linkedin.com/in/maryam-mumtaz-3a1820425
+- Email: maryammumtaz340@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!

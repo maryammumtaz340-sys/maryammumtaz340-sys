@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/maryam-mumtaz-3a1820425">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://maryammumtaz340-sys.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Visit-8B6BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
@@ -23,7 +24,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header" alt="divider"/>
 
 ## 🎓 About Me
-
 <img src="profile.png" width="200" align="right" style="margin-left:20px; border-radius:12px;"/>
 
 I'm a **BS Artificial Intelligence** student at COMSATS University Islamabad, Lahore Campus, currently building my skills in **Python, C++, and software development**.

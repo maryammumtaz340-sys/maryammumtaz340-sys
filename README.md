@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B6BFF,100:4C8DFF&height=220&section=header&text=Maryam%20Mumtaz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Student%20%7C%20Python%20Developer%20%7C%20Aspiring%20AI%20Engineer&descAlignY=54&descSize=17" alt="header banner"/>
 
-<p align="center">  
+<p align="center">   
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=8B6BFF&center=true&vCenter=true&width=560&lines=Building+intelligent+solutions+with+Python;Currently+strengthening+Data+Structures+%26+Algorithms;Open+to+Software+Development+Internships!" alt="Typing SVG"/>  
 </p>
 
